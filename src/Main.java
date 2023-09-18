@@ -14,7 +14,6 @@ public class Main {
         double doubleDifference = -4;
         double doubleQuotient = 0;
         double doubleModulo = 2;
-        intModulo
         intSum = intOperandA + intOperandB;
         intProduct = intOperandA * intOperandB;
         intDifference = intOperandA - intOperandB;
