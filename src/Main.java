@@ -6,7 +6,7 @@ public class Main {
         int intProduct = 5;
         int intDifference = -4;
         int intQuotient = 0;
-        int intModulo;
+        int intModulo= intOperandA % intOperandB;
         double doubleOperandA = 2;
         double doubleOperandB = 10;
         double doubleSum = 12;
@@ -14,7 +14,7 @@ public class Main {
         double doubleDifference = -4;
         double doubleQuotient = 0;
         double doubleModulo = 2;
-        intModulo = intOperandA % intOperandB;
+        intModulo
         intSum = intOperandA + intOperandB;
         intProduct = intOperandA * intOperandB;
         intDifference = intOperandA - intOperandB;
